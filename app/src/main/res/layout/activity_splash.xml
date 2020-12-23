@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@color/bg"
+    android:background="@color/darkBlue"
     tools:context=".SplashActivity">
 
     <LinearLayout
@@ -25,7 +25,7 @@
             android:fontFamily="@font/open_sans_light"
             android:text="ROXIO"
             android:textColor="@color/rox"
-            android:textSize="42dp"
+            android:textSize="42sp"
             tools:layout_editor_absoluteX="152dp"
             tools:layout_editor_absoluteY="398dp" />
     </LinearLayout>
